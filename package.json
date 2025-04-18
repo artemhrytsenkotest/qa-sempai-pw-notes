@@ -1,0 +1,17 @@
+{
+  "name": "qa_dojo",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "Artem Hrytsenko",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.5"
+  },
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
