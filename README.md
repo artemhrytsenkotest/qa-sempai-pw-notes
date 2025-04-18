@@ -1,2 +1,1 @@
-# qa-sempai-pw-notes
-# qa-sempai-pw-notes
+# QA Dojo
